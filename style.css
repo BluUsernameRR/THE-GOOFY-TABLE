@@ -1,0 +1,19 @@
+@font-face {
+    font-family: 'pow';
+    src: url(pah.ttf);
+}
+
+body {
+    background-color: rgb(152, 152, 185);
+    color: rgb(255, 255, 255);
+    font-size: larger;
+}
+
+h1 {
+    font-family: 'pow', sans-serif;
+    font-size: 6em;
+}
+p {
+    font-family: 'pow';
+    font-size: 2em;
+}
